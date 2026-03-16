@@ -20,6 +20,38 @@ This repository serves as a centralized hub for:
 
 ---
 
+## 🍴 Forking & Contributing
+
+To contribute your project or participate in collaborative work, follow these steps:
+
+### 1. Fork the Repository
+Click the **Fork** button at the top right of this page to create a copy of the repository in your own GitHub account.
+
+### 2. Clone Your Fork
+Clone your forked repository to your local machine:
+```bash
+git clone https://github.com/YOUR_USERNAME/Vibe-Coding-Projects.git
+```
+
+### 3. Create Your Student Folder
+Navigate to the `Students/` directory and create your personal folder:
+```bash
+mkdir Students/FirstNameLastName-SapID
+```
+
+### 4. Commit and Push
+Add your project files, commit your changes, and push them to your fork:
+```bash
+git add .
+git commit -m "feat: Add [Project Name] to [Your Name]"
+git push origin main
+```
+
+### 5. Open a Pull Request
+Go to the original repository on GitHub and click **New Pull Request**. Ensure you use the provided template to describe your submission.
+
+---
+
 ## 🏷️ Issue Tags & Policy
 
 To keep the repository organized, please use the following tags when raising issues:
